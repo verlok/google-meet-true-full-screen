@@ -4,7 +4,7 @@
 
 **A bookmarklet for toggling real full screen on Google Meet.**
 
-## How to use:
+## How to create your bookmarklet
 
 Copy the following code:
 
