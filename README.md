@@ -17,6 +17,7 @@ Open [Caio Rordrigues' Bookmarklet Maker](https://caiorss.github.io/bookmarklet-
 In the bookmarklet maker:
 - Give your bookmarklet a title. This is the text you will see in the bookmarks bar. Example: `GMeet Full`.
 - Paste the code you copied before into the "Code" section.
+- Click "Generate bookmarklet"
 - Below, you will see `Bookmaklet:` followed by the title you chose, e.g. `GMeet Full`.
 - Drag that bookmarklet in your bookmarks bar.
 
