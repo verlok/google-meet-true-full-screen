@@ -6,7 +6,7 @@ A bookmarklet for toggling real full screen on Google Meet
 
 1. Drag the following to your bookmarks bar
 
-<p><a href="javascript:(function()%7Bconst%20jsCtrlId%20%3D%20'hVZhab'%3B%20for%20(const%20controller%20of%20document.querySelectorAll(%60%5Bjscontroller%3D%22%24%7BjsCtrlId%7D%22%5D%60))%20if%20(controller.style.display%20%3D%3D%3D%20'')%20controller.style.display%20%3D%20'none'%3B%20else%20controller.style.display%20%3D%20''%3B%7D)()%3B">GMeet FScreen</a></p>
+[Try this](javascript:(function()%7Bconst%20jsCtrlId%20%3D%20'hVZhab'%3B%20for%20(const%20controller%20of%20document.querySelectorAll(%60%5Bjscontroller%3D%22%24%7BjsCtrlId%7D%22%5D%60))%20if%20(controller.style.display%20%3D%3D%3D%20'')%20controller.style.display%20%3D%20'none'%3B%20else%20controller.style.display%20%3D%20''%3B%7D)()%3B)
 
 _(Bookmarklet generated with [Caio Rordrigues' Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/))_
 
