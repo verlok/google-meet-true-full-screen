@@ -4,6 +4,12 @@
 
 **A bookmarklet for toggling real full screen on Google Meet.**
 
+Before 
+![Before](before.png)
+
+After
+![After](after.png)
+
 ## How to create your bookmarklet
 
 Copy the following code:
