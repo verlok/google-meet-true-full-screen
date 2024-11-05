@@ -5,10 +5,10 @@
 **A bookmarklet for toggling real full screen on Google Meet.**
 
 Before 
-![Before](before.png)
+![Before](img/web/before.webp)
 
 After
-![After](after.png)
+![After](img/web/after.webp)
 
 ## How to create your bookmarklet
 
